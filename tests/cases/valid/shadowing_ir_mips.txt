@@ -1,0 +1,21 @@
+unTal pavos x = 10;
+
+laFaena pavos sombraLocal() {
+    unTal pavos valor = 1;
+
+    fijateSi (jurao) {
+        unTal pavos valor = 2;
+        valor = valor + 3;
+    }
+
+    suelta valor;
+}
+
+laFaena pavos sombraGlobal() {
+    fijateSi (jurao) {
+        unTal pavos x = 2;
+        x = x + 1;
+    }
+
+    suelta x;
+}

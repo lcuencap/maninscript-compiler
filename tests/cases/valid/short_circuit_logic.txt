@@ -1,0 +1,23 @@
+laFaena jura rhs() {
+    suelta jurao;
+}
+
+laFaena pavos pruebaAnd() {
+    unTal pavos x = 0;
+
+    fijateSi (bulo y rhs()) {
+        x = 1;
+    }
+
+    suelta x;
+}
+
+laFaena pavos pruebaOr() {
+    unTal pavos x = 0;
+
+    fijateSi (jurao o rhs()) {
+        x = 1;
+    }
+
+    suelta x;
+}

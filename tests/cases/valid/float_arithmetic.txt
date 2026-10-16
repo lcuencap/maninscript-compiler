@@ -1,0 +1,19 @@
+unTal aPachas global = 1.5;
+
+laFaena aPachas escala(aPachas x, pavos n) {
+    unTal aPachas factor = n;
+    unTal aPachas total = x * factor + global;
+
+    fijateSi (total >= 5.5) {
+        total = total / 2.0;
+    } ySiNo {
+        total = total + 0.25;
+    }
+
+    suelta -total;
+}
+
+laFaena aPachas main() {
+    unTal aPachas resultado = escala(2.0, 3);
+    suelta resultado;
+}

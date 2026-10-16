@@ -1,0 +1,7 @@
+laFaena pavos cuentaAcentos() {
+    unTal pavos i = 0;
+    segúnVea (i < 2) {
+        i = i + 1;
+    }
+    suelta i;
+}

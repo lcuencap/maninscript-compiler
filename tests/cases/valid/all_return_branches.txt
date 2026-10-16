@@ -1,0 +1,7 @@
+laFaena pavos decide(jura ok) {
+    fijateSi (ok) {
+        suelta 1;
+    } ySiNo {
+        suelta 2;
+    }
+}

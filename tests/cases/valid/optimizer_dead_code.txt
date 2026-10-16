@@ -1,0 +1,5 @@
+laFaena pavos corta() {
+    suelta 1;
+    unTal pavos muerto = 2;
+    di!("invisible");
+}
