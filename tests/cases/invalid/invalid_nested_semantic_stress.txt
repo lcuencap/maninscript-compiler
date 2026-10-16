@@ -1,0 +1,13 @@
+laFaena naDeNa hola() {
+}
+
+laFaena pavos semCaos(jura ok, pavos ok) {
+    aMuerte pavos tope = tope;
+
+    segunVea (ok + 1) {
+        unTal pavos x = fantasma(faltaVar);
+        tope = "adios";
+    }
+
+    suelta "no";
+}

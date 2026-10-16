@@ -1,0 +1,13 @@
+laFaena naDeNa caos(pavos n, carro texto) {
+    segunVea (n < 3 {
+        fijateSi (texto == "a") {
+            unTal pavos x = ;
+            segunVea (x < 2) {
+                di!("uno",, x);
+                x = x + ;
+            }
+        } ySiNo {
+            di!("otro")
+        }
+    }
+}
