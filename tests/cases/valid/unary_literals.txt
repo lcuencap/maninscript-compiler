@@ -1,0 +1,7 @@
+laFaena pavos ajusta(pavos x) {
+    unTal letrilla inicial = 'a';
+    unTal carro texto = "texto";
+    unTal pavos valor = -x;
+    di!("ok", inicial, texto);
+    suelta +valor;
+}

@@ -1,0 +1,9 @@
+unTal pavos limite = 3;
+
+laFaena naDeNa cuenta() {
+    unTal pavos i = 0;
+    segunVea (i < limite) {
+        di!("i", i);
+        i = i + 1;
+    }
+}

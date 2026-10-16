@@ -1,0 +1,6 @@
+laFaena naDeNa muestra() {
+    unTal carro texto = "hola\nmundo";
+    unTal carro cita = "dijo \"hola\"";
+    unTal letrilla salto = '\n';
+    di!(texto, cita, salto);
+}

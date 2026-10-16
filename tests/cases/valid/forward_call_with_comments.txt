@@ -1,0 +1,10 @@
+/* Comentario de bloque antes de las funciones. */
+laFaena pavos usa() {
+    // Llamada adelantada sin argumentos.
+    unTal pavos base = dame();
+    suelta base;
+}
+
+laFaena pavos dame() {
+    suelta 7;
+}

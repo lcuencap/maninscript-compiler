@@ -1,0 +1,9 @@
+laFaena naDeNa clasifica(pavos x) {
+    di!(x);
+}
+
+laFaena naDeNa main() {
+    unTal pavos n1 = 5;
+    clasifica(n1);
+    clasifica(3);
+}

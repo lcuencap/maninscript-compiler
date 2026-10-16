@@ -1,0 +1,6 @@
+laFaena naDeNa revisa(pavos x) {
+    fijateSi (x == 0) {
+        di!("cero");
+    }
+    di!("fin");
+}
