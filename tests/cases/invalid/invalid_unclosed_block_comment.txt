@@ -1,0 +1,4 @@
+/* comentario sin cierre
+laFaena naDeNa rota() {
+    suelta;
+}

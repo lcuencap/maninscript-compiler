@@ -1,0 +1,6 @@
+laFaena naDeNa hola() {
+}
+
+laFaena naDeNa prueba() {
+    di!(hola());
+}

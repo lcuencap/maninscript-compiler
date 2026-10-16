@@ -1,0 +1,13 @@
+unTal pavos base = "hola";
+
+laFaena pavos rompe(pavos x, pavos x) {
+    unTal pavos dato = z;
+    aMuerte pavos tope = 3;
+    tope = 4;
+
+    fijateSi (x) {
+        di!("entro");
+    }
+
+    suelta "adios";
+}

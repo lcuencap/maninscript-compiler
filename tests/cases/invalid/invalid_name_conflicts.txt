@@ -1,0 +1,9 @@
+laFaena pavos repetida() {
+    suelta 1;
+}
+
+unTal pavos repetida = 2;
+
+laFaena pavos repetida() {
+    suelta 3;
+}

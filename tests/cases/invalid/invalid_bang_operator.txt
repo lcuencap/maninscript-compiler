@@ -1,0 +1,5 @@
+laFaena naDeNa compara(pavos x) {
+    fijateSi (x != 3) {
+        di!("no");
+    }
+}

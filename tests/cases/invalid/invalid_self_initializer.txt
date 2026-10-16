@@ -1,0 +1,4 @@
+laFaena pavos auto() {
+    unTal pavos x = x;
+    suelta 0;
+}

@@ -1,0 +1,7 @@
+laFaena pavos suma() {
+    suelta 7;
+}
+
+laFaena naDeNa main() {
+    suma();
+}
