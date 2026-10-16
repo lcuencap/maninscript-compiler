@@ -1,0 +1,5 @@
+laFaena naDeNa rompe() {
+    fijateSi (1) {
+        di!("x");
+    }
+}

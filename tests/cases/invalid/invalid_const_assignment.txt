@@ -1,0 +1,5 @@
+aMuerte pavos base = 1;
+
+laFaena naDeNa rompe() {
+    base = 2;
+}

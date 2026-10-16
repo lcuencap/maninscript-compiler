@@ -1,0 +1,9 @@
+unTal pavos base = 1
+
+laFaena naDeNa rompe(pavos, carro nombre) {
+    di("x")
+    unTal pavos z = ;
+    fijateSi (z > ) {
+        di!("ok");
+    }
+}

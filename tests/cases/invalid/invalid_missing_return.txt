@@ -1,0 +1,5 @@
+laFaena pavos roto(pavos x) {
+    fijateSi (x > 0) {
+        di!("x");
+    }
+}

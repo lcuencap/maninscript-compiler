@@ -1,0 +1,3 @@
+laFaena naDeNa rompeFloat() {
+    unTal pavos x = 1.5;
+}
